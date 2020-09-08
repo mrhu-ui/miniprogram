@@ -1,0 +1,9 @@
+<!--pages/text/text.wxml-->
+
+<!-- text的基本使用 -->
+<text>hello world</text>
+<text>你好小程序\n</text>
+
+<!-- 2.selectable:true -->
+<!-- 默认情况下text中的文本长按是不能被选中的 -->
+<text selectable>hello</text>
